@@ -5,3 +5,5 @@ Main.py is the main entry point for this program.
 Should run under any system supporting python.
 
 Have fun!
+
+![Screenshot](readme_assets/game.png)
